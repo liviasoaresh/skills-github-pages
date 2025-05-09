@@ -1,4 +1,32 @@
 <header>
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Curso Alongamento de Cílios Premium</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <style>
+    :root {
+      --rose: #f8d7da;
+      --lilas: #c8a2c8;
+    }
+  </style>
+</head>
+<body class="bg-white text-gray-800 font-sans">
+
+  <!-- Header -->
+  <header class="bg-[#f8d7da] text-white p-6 shadow-md">
+    <div class="max-w-6xl mx-auto flex justify-between items-center">
+      <img src="URL_DO_LOGO" alt="Curso Alongamento de Cílios Premium" class="w-32 h-32 object-contain">
+      <h1 class="text-2xl font-bold text-[#c8a2c8]">Curso Alongamento de Cílios Premium</h1>
+      <a href="#inscricao" class="bg-white text-[#c8a2c8] px-4 py-2 rounded-full font-medium hover:bg-[#f3e6f3]">Inscreva-se</a>
+    </div>
+  </header>
+
+  <!-- Restante do código segue igual -->
+</body>
+</html>
 
 <!--
   <<< Author notes: Course header >>>
